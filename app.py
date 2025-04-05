@@ -33,3 +33,4 @@ app.register_blueprint(citizen_bp)
 
 if __name__ == "__main__":
     app.run(debug=True)
+    
